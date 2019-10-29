@@ -6,9 +6,9 @@ The following repo is based on the final project for the course "Data Science: P
 
 The corresponding tasks are divided into the following notebooks:
 
-. Slicing Data
-. Cleaning Data
-. Selecting Fundamental Variables
+* Slicing Data
+* Cleaning Data
+* Selecting Fundamental Variables
 
 
 
